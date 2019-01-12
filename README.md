@@ -7,6 +7,7 @@
 [![Build Status](https://travis-ci.com/RasaHQ/rasa_core.svg?branch=master)](https://travis-ci.com/RasaHQ/rasa_core)
 [![Coverage Status](https://coveralls.io/repos/github/RasaHQ/rasa_core/badge.svg?branch=master)](https://coveralls.io/github/RasaHQ/rasa_core?branch=master)
 [![Documentation Status](https://img.shields.io/badge/docs-stable-brightgreen.svg)](https://rasa.com/docs/core)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FRasaHQ%2Frasa_core.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FRasaHQ%2Frasa_core?ref=badge_shield)
 
 
 - **What do Rasa Core & NLU do? 🤔**
@@ -118,3 +119,6 @@ Copyright 2018 Rasa Technologies GmbH. [Copy of the license](LICENSE.txt).
 A list of the Licenses of the dependencies of the project can be found at
 the bottom of the
 [Libraries Summary](https://libraries.io/github/RasaHQ/rasa_core).
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FRasaHQ%2Frasa_core.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FRasaHQ%2Frasa_core?ref=badge_large)
